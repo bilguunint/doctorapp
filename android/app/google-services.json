@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548340896574",
+    "firebase_url": "https://wallet-0514.firebaseio.com",
+    "project_id": "wallet-0514",
+    "storage_bucket": "wallet-0514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548340896574:android:0a9d98f640bf636d",
+        "android_client_info": {
+          "package_name": "com.bilguun.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548340896574-p3q2d08d8t3e0mp80beu5nef7v3fgrlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilguun.wallet",
+            "certificate_hash": "c80cfa86e0060b71cf4525e53258e2115cf60786"
+          }
+        },
+        {
+          "client_id": "548340896574-6ehh82ip1e8o4hen9ku6a8o4qu80h913.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDstQdn5rJvUu5fzN9I67SVN9ZHI9jlYqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548340896574-6ehh82ip1e8o4hen9ku6a8o4qu80h913.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

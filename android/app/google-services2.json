@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545487773689",
+    "firebase_url": "https://sondor-mn.firebaseio.com",
+    "project_id": "sondor-mn",
+    "storage_bucket": "sondor-mn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545487773689:android:4fa13f866c5d5e4c",
+        "android_client_info": {
+          "package_name": "com.bilguun.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545487773689-f3hoft26h794jhmqoq3jnbo9fltrn5d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilguun.wallet",
+            "certificate_hash": "c80cfa86e0060b71cf4525e53258e2115cf60786"
+          }
+        },
+        {
+          "client_id": "545487773689-s883n56lc9gslnbbdm5vs203geag8bs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeo5y3GZM_v97WaEIxFHrFMieyCmFYAoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545487773689-s883n56lc9gslnbbdm5vs203geag8bs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
